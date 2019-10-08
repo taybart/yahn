@@ -42,7 +42,6 @@
 		34B0271F234C306000E882B6 = {
 			isa = PBXGroup;
 			children = (
-				34B0273F234C307800E882B6 /* Entry.swift */,
 				34B0272A234C306000E882B6 /* yahn */,
 				34B02729234C306000E882B6 /* Products */,
 			);
@@ -61,6 +60,7 @@
 			children = (
 				34B0272B234C306000E882B6 /* AppDelegate.swift */,
 				34B0272D234C306000E882B6 /* SceneDelegate.swift */,
+				34B0273F234C307800E882B6 /* Entry.swift */,
 				34B0272F234C306000E882B6 /* ContentView.swift */,
 				34B02731234C306300E882B6 /* Assets.xcassets */,
 				34B02736234C306300E882B6 /* LaunchScreen.storyboard */,
